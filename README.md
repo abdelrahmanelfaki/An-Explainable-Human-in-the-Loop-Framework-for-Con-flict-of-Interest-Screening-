@@ -14,6 +14,7 @@ This program provides the data-enrichment component of the framework. It connect
 Second Program
 author_org_relation_checker.py
 Location in manuscript: Section 5.2, Algorithm 2
+Dataset: COI_author_org_relationships_typed
 Searches PubMed, Crossref, and optionally public web-search results for evidence of author–organization relationships. The second Python program implements the primary automated relationship-verification component of the proposed framework. It investigates whether publicly available information supports an association between a specific author and an organization mentioned in the COI disclosure. This is directly related to the computational verification of the predicate: relation(A,B). where (A) represents the author or agent and (B) represents the organization or relevant entity. 
 PubMed verification: It constructs a query combining author information with the organization name in the affiliation field. The program retrieves up to 10 candidate publications and examines their author names and affiliation metadata. A match is recorded when the author-matching and organization-matching conditions are satisfied.
 Crossref verification: It searches Crossref using the author and organization names and examines up to five returned publications. The program checks whether the matched author has affiliation metadata containing the organization.
