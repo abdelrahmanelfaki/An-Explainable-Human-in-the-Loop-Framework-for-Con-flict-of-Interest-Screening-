@@ -1,0 +1,20 @@
+test_01_exact_full_name (test_coi_functional.TestAuthorMatching.test_01_exact_full_name) ... ok
+test_02_initials_match_full_name (test_coi_functional.TestAuthorMatching.test_02_initials_match_full_name) ... ok
+test_03_accent_normalization (test_coi_functional.TestAuthorMatching.test_03_accent_normalization) ... ok
+test_04_surname_first_name (test_coi_functional.TestAuthorMatching.test_04_surname_first_name) ... ok
+test_05_hyphenated_surname_first (test_coi_functional.TestAuthorMatching.test_05_hyphenated_surname_first) ... ok
+test_06_reject_different_surname (test_coi_functional.TestAuthorMatching.test_06_reject_different_surname) ... ok
+test_07_reject_different_initial (test_coi_functional.TestAuthorMatching.test_07_reject_different_initial) ... ok
+test_11_doi_canonicalization (test_coi_functional.TestIdentifiersAndInputs.test_11_doi_canonicalization) ... ok
+test_12_input_column_alias_handling (test_coi_functional.TestIdentifiersAndInputs.test_12_input_column_alias_handling) ... ok
+test_13_excludes_index_pmid_and_doi (test_coi_functional.TestIdentifiersAndInputs.test_13_excludes_index_pmid_and_doi) ... ok
+test_14_excludes_explicit_supporting_ids (test_coi_functional.TestIdentifiersAndInputs.test_14_excludes_explicit_supporting_ids) ... ok
+test_15_pubmed_author_query_construction (test_coi_functional.TestIdentifiersAndInputs.test_15_pubmed_author_query_construction) ... ok
+test_08_identical_organization (test_coi_functional.TestOrganizationMatching.test_08_identical_organization) ... ok
+test_09_organization_in_longer_affiliation (test_coi_functional.TestOrganizationMatching.test_09_organization_in_longer_affiliation) ... ok
+test_10_reject_different_organization (test_coi_functional.TestOrganizationMatching.test_10_reject_different_organization) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.002s
+
+OK
