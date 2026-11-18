@@ -1,0 +1,201 @@
+﻿pmid,author,organization,relationship_type,system_verdict,doi,evidence_pmids,evidence_dois,reference_label,reference_basis,source,source_status,evidence_count,candidate_count,checked,evidence_json,detail
+29061652,Baker HE,eli lilly,,,,,,,,Crossref,SEARCH_TRUNCATED,0,593505,200,[],Crossref affiliation deposits may be incomplete
+30033433,Dagenais GR,bayer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,3343,105,[],Crossref affiliation deposits may be incomplete
+30723140,Diaz-Padilla I,amgen,,,,,,,,Crossref,SEARCH_TRUNCATED,0,83505,114,[],Crossref affiliation deposits may be incomplete
+32628644,Bovin A,boehringer ingelheim,,,,,,,,Crossref,SEARCH_TRUNCATED,0,368,99,[],Crossref affiliation deposits may be incomplete
+27780334,Loft H,eli lilly,,,,,,,,Crossref,SEARCH_TRUNCATED,0,967,100,[],Crossref affiliation deposits may be incomplete
+27486125,Chang AM,eli lilly,,,,,,,,Crossref,SEARCH_TRUNCATED,0,410906,182,[],Crossref affiliation deposits may be incomplete
+31758215,Pazzagli L,astrazeneca,,,,,,,,Crossref,SEARCH_TRUNCATED,0,189,99,[],Crossref affiliation deposits may be incomplete
+32167992,Dickinson L,bms,,,,,,,,Crossref,SEARCH_TRUNCATED,0,9061,100,[],Crossref affiliation deposits may be incomplete
+27758758,Ainsua-Enrich E,msd,,,,,,,,Crossref,SEARCH_TRUNCATED,0,375,99,[],Crossref affiliation deposits may be incomplete
+30675873,Jensen ME,janssen,,,,,,,,Crossref,SEARCH_TRUNCATED,0,64685,120,[],Crossref affiliation deposits may be incomplete
+28295934,Famulla S,roche diagnostics,,,,,,,,Crossref,NOT_OBSERVED,0,32,31,[],Crossref affiliation deposits may be incomplete
+31780586,Schou M,msd,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2003,100,[],Crossref affiliation deposits may be incomplete
+25684082,Mikkola TS,gsk,,,,,,,,Crossref,SEARCH_TRUNCATED,0,4261,100,[],Crossref affiliation deposits may be incomplete
+31365188,Behm MO,astrazeneca,,,,,,,,Crossref,SEARCH_TRUNCATED,0,74158,113,[],Crossref affiliation deposits may be incomplete
+25880207,Tanihara H,nih,,,,,,,,Crossref,SEARCH_TRUNCATED,0,415,100,[],Crossref affiliation deposits may be incomplete
+21463522,Quirce S,pfizer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,349,100,[],Crossref affiliation deposits may be incomplete
+31785951,Dominguez-Rodriguez A,bayer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,165947,142,[],Crossref affiliation deposits may be incomplete
+29151036,Williams B,abbvie,,,,,,,,Crossref,SEARCH_TRUNCATED,0,148912,147,[],Crossref affiliation deposits may be incomplete
+30632023,Joy AA,amgen,,,,,,,,Crossref,SEARCH_TRUNCATED,0,46293,114,[],Crossref affiliation deposits may be incomplete
+28538024,Mathews M,janssen,,,,,,,,Crossref,SEARCH_TRUNCATED,0,9907,119,[],Crossref affiliation deposits may be incomplete
+25850968,Engel SS,johnson & johnson,,,,,,,,Crossref,SEARCH_TRUNCATED,0,18574,114,[],Crossref affiliation deposits may be incomplete
+29662293,Umegaki E,takeda,,,,,,,,Crossref,SEARCH_TRUNCATED,0,819,103,[],Crossref affiliation deposits may be incomplete
+29564735,Balasubramanian A,eli lilly,,,,,,,,Crossref,SEARCH_TRUNCATED,0,14765,108,[],Crossref affiliation deposits may be incomplete
+25414399,Johnson J,boehringer ingelheim,,,,,,,,Crossref,SEARCH_TRUNCATED,0,140968,119,[],Crossref affiliation deposits may be incomplete
+32054669,Schmid J,novartis,,,,,,,,Crossref,SEARCH_TRUNCATED,0,27257,133,[],Crossref affiliation deposits may be incomplete
+31495881,Perkovic V,amgen,,,,,,,,Crossref,SEARCH_TRUNCATED,0,857,101,[],Crossref affiliation deposits may be incomplete
+31533906,Ma J,glaxosmithkline,,,,,,,,Crossref,SEARCH_TRUNCATED,0,627348,137,[],Crossref affiliation deposits may be incomplete
+30814321,Dans A,boehringer ingelheim,,,,,,,,Crossref,SEARCH_TRUNCATED,0,564,100,[],Crossref affiliation deposits may be incomplete
+31700170,Vaduganathan M,amgen,,,,,,,,Crossref,SEARCH_TRUNCATED,0,937,99,[],Crossref affiliation deposits may be incomplete
+31769309,Kaku K,astrazeneca,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2758,101,[],Crossref affiliation deposits may be incomplete
+31955260,Mannucci E,merck,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1441,100,[],Crossref affiliation deposits may be incomplete
+32660977,Goupille P,abbvie,,,,,,,,Crossref,SEARCH_TRUNCATED,0,477,101,[],Crossref affiliation deposits may be incomplete
+31527563,Sterliński M,boston scientific,,,,,,,,Crossref,SEARCH_TRUNCATED,0,109,99,[],Crossref affiliation deposits may be incomplete
+29858004,Blauer-Peterson C,gsk,,,,,,,,Crossref,SEARCH_TRUNCATED,0,36709,105,[],Crossref affiliation deposits may be incomplete
+21527122,Athanasiou M,glaxosmithkline,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1476,100,[],Crossref affiliation deposits may be incomplete
+29504812,Suzuki S,eli lilly,,,,,,,,Crossref,SEARCH_TRUNCATED,0,101543,116,[],Crossref affiliation deposits may be incomplete
+30632023,Gauthier ER,bms,,,,,,,,Crossref,SEARCH_TRUNCATED,0,29259,101,[],Crossref affiliation deposits may be incomplete
+31375659,Ratti E,takeda,,,,,,,,Crossref,SEARCH_TRUNCATED,0,4334,109,[],Crossref affiliation deposits may be incomplete
+27474357,Chitra R,roche,,,,,,,,Crossref,SEARCH_TRUNCATED,0,6605,104,[],Crossref affiliation deposits may be incomplete
+31858522,Schindewolf M,glaxosmithkline,,,,,,,,Crossref,SEARCH_TRUNCATED,0,267,99,[],Crossref affiliation deposits may be incomplete
+30019249,Taguchi A,msd,,,,,,,,Crossref,SEARCH_TRUNCATED,0,9287,102,[],Crossref affiliation deposits may be incomplete
+30655665,Voß F,merck,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2140,100,[],Crossref affiliation deposits may be incomplete
+32767806,Nosaka K,pfizer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1374,100,[],Crossref affiliation deposits may be incomplete
+31422111,Palau P,boehringer ingelheim,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2491,100,[],Crossref affiliation deposits may be incomplete
+32552153,Watada H,novartis,,,,,,,,Crossref,SEARCH_TRUNCATED,0,869,100,[],Crossref affiliation deposits may be incomplete
+29128193,Chen B,astrazeneca,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1965827,200,[],Crossref affiliation deposits may be incomplete
+30091172,Lee C,novartis,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1120718,200,[],Crossref affiliation deposits may be incomplete
+31712995,Marshall L,janssen,,,,,,,,Crossref,SEARCH_TRUNCATED,0,50754,130,[],Crossref affiliation deposits may be incomplete
+25975816,Ubukata M,glaxosmithkline,,,,,,,,Crossref,SEARCH_TRUNCATED,0,522,100,[],Crossref affiliation deposits may be incomplete
+30956267,Murohara T,novartis,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1072,100,[],Crossref affiliation deposits may be incomplete
+23604551,Eymard E,novartis,,,,,,,,Crossref,SEARCH_TRUNCATED,0,874,101,[],Crossref affiliation deposits may be incomplete
+29932311,Pieske B,sanofi,,,,,,,,Crossref,SEARCH_TRUNCATED,0,750,100,[],Crossref affiliation deposits may be incomplete
+32767806,Suehiro Y,takeda,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1551,100,[],Crossref affiliation deposits may be incomplete
+32482616,Windecker S,merck,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1484,100,[],Crossref affiliation deposits may be incomplete
+27486125,Chang AM,msd,,,,,,,,Crossref,SEARCH_TRUNCATED,0,410906,127,[],Crossref affiliation deposits may be incomplete
+29627772,Misawa S,pfizer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,3112,101,[],Crossref affiliation deposits may be incomplete
+31848933,Brody B,novartis,,,,,,,,Crossref,SEARCH_TRUNCATED,0,5522,105,[],Crossref affiliation deposits may be incomplete
+32185580,de Boer RA,roche,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2371963,200,[],Crossref affiliation deposits may be incomplete
+32767806,Minauchi K,novartis,,,,,,,,Crossref,NOT_OBSERVED,0,28,27,[],Crossref affiliation deposits may be incomplete
+32478848,Chiang CE,msd,,,,,,,,Crossref,SEARCH_TRUNCATED,0,53141,104,[],Crossref affiliation deposits may be incomplete
+31481505,Ponzo M,pfizer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,689,100,[],Crossref affiliation deposits may be incomplete
+32295593,Beier J,merck,,,,,,,,Crossref,SEARCH_TRUNCATED,0,4222,114,[],Crossref affiliation deposits may be incomplete
+33121997,Shiomi A,novartis,,,,,,,,Crossref,SEARCH_TRUNCATED,0,3685,100,[],Crossref affiliation deposits may be incomplete
+28356319,Rose L,msd,,,,,,,,Crossref,SEARCH_TRUNCATED,0,61748,106,[],Crossref affiliation deposits may be incomplete
+31500631,Marshall L,merck,,,,,,,,Crossref,SEARCH_TRUNCATED,0,48826,173,[],Crossref affiliation deposits may be incomplete
+31568820,Gonçalves J,merck,,,,,,,,Crossref,SEARCH_TRUNCATED,0,114811,102,[],Crossref affiliation deposits may be incomplete
+33152122,Efremov L,bayer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2944,100,[],Crossref affiliation deposits may be incomplete
+31324921,Capucci A,astrazeneca,,,,,,,,Crossref,SEARCH_TRUNCATED,0,362,100,[],Crossref affiliation deposits may be incomplete
+30468145,Round J,janssen,,,,,,,,Crossref,SEARCH_TRUNCATED,0,952,102,[],Crossref affiliation deposits may be incomplete
+29293261,Gibbons C,roche,,,,,,,,Crossref,SEARCH_TRUNCATED,0,8645,102,[],Crossref affiliation deposits may be incomplete
+32699904,Kivitz A,sanofi,,,,,,,,Crossref,SEARCH_TRUNCATED,0,330,103,[],Crossref affiliation deposits may be incomplete
+27377815,Makri S,abbvie,,,,,,,,Crossref,SEARCH_TRUNCATED,0,758,100,[],Crossref affiliation deposits may be incomplete
+32336236,Weber MA,boston scientific,,,,,,,,Crossref,SEARCH_TRUNCATED,0,789759,200,[],Crossref affiliation deposits may be incomplete
+32098513,Tzanetakou V,sanofi,,,,,,,,Crossref,NOT_OBSERVED,0,42,41,[],Crossref affiliation deposits may be incomplete
+32473355,Bonello L,boston scientific,,,,,,,,Crossref,SEARCH_TRUNCATED,0,986,112,[],Crossref affiliation deposits may be incomplete
+27495291,Patel CA,johnson & johnson,,,,,,,,Crossref,SEARCH_TRUNCATED,0,143094,200,[],Crossref affiliation deposits may be incomplete
+32880824,Takahashi T,pfizer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,91156,130,[],Crossref affiliation deposits may be incomplete
+30836381,Leucht S,boehringer ingelheim,,,,,,,,Crossref,SEARCH_TRUNCATED,0,699,100,[],Crossref affiliation deposits may be incomplete
+33326457,Dossier A,msd,,,,,,,,Crossref,SEARCH_TRUNCATED,0,253,100,[],Crossref affiliation deposits may be incomplete
+31189978,Sakuma I,astrazeneca,,,,,,,,Crossref,SEARCH_TRUNCATED,0,5991,100,[],Crossref affiliation deposits may be incomplete
+25498130,Andersen TH,msd,,,,,,,,Crossref,SEARCH_TRUNCATED,0,43980,104,[],Crossref affiliation deposits may be incomplete
+29171139,Weill J,takeda,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1721,100,[],Crossref affiliation deposits may be incomplete
+31256905,Jiandani D,boehringer ingelheim,,,,,,,,Crossref,NOT_OBSERVED,0,70,69,[],Crossref affiliation deposits may be incomplete
+28113032,Hart L,regeneron,,,,,,,,Crossref,SEARCH_TRUNCATED,0,26172,104,[],Crossref affiliation deposits may be incomplete
+28322904,Huang M,abbvie,,,,,,,,Crossref,SEARCH_TRUNCATED,0,751253,200,[],Crossref affiliation deposits may be incomplete
+31975354,Lipardi C,janssen,,,,,,,,Crossref,NOT_OBSERVED,0,42,41,[],Crossref affiliation deposits may be incomplete
+28475676,Agewall S,roche,,,,,,,,Crossref,SEARCH_TRUNCATED,0,277,100,[],Crossref affiliation deposits may be incomplete
+31759969,Frauscher B,astrazeneca,,,,,,,,Crossref,SEARCH_TRUNCATED,0,283,100,[],Crossref affiliation deposits may be incomplete
+28356319,Mathieu C,boehringer ingelheim,,,,,,,,Crossref,SEARCH_TRUNCATED,0,44795,111,[],Crossref affiliation deposits may be incomplete
+31495881,Cooper ME,amgen,,,,,,,,Crossref,SEARCH_TRUNCATED,0,64012,129,[],Crossref affiliation deposits may be incomplete
+32844923,Venade G,johnson & johnson,,,,,,,,Crossref,NOT_OBSERVED,0,18,17,[],Crossref affiliation deposits may be incomplete
+32035891,Raghavendra P,takeda,,,,,,,,Crossref,SEARCH_TRUNCATED,0,11885,100,[],Crossref affiliation deposits may be incomplete
+31162549,Ghiadoni L,eli lilly,,,,,,,,Crossref,SEARCH_TRUNCATED,0,216,100,[],Crossref affiliation deposits may be incomplete
+28852909,Craig Lockhart A,takeda,,,,,,,,Crossref,SEARCH_TRUNCATED,0,109361,145,[],Crossref affiliation deposits may be incomplete
+28968163,Chen SC,amgen,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1741296,200,[],Crossref affiliation deposits may be incomplete
+23076926,Cipriani A,nih,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2272,100,[],Crossref affiliation deposits may be incomplete
+31806214,Jansky P,roche diagnostics,,,,,,,,Crossref,SEARCH_TRUNCATED,0,987,100,[],Crossref affiliation deposits may be incomplete
+32505262,Kaplovitch E,sanofi,,,,,,,,Crossref,NOT_OBSERVED,0,32,31,[],Crossref affiliation deposits may be incomplete
+32220510,Brodsky S,pfizer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2917,111,[],Crossref affiliation deposits may be incomplete
+32694638,Ilmonen P,janssen,,,,,,,,Crossref,SEARCH_TRUNCATED,0,120,99,[],Crossref affiliation deposits may be incomplete
+28229223,Lingor P,abbvie,,,,,,,,Crossref,SEARCH_TRUNCATED,0,144,100,[],Crossref affiliation deposits may be incomplete
+31078482,Balmforth C,nih,,,,,,,,Crossref,SEARCH_TRUNCATED,0,196,100,[],Crossref affiliation deposits may be incomplete
+27696221,Heise T,roche,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2578,106,[],Crossref affiliation deposits may be incomplete
+32336236,Julius S,sanofi,,,,,,,,Crossref,SEARCH_TRUNCATED,0,26211,104,[],Crossref affiliation deposits may be incomplete
+31785951,Autelli M,bayer,,,,,,,,Crossref,NOT_OBSERVED,0,58,57,[],Crossref affiliation deposits may be incomplete
+30675873,Greenberg L,msd,,,,,,,,Crossref,SEARCH_TRUNCATED,0,14092,103,[],Crossref affiliation deposits may be incomplete
+31208705,Azuri J,merck,,,,,,,,Crossref,SEARCH_TRUNCATED,0,214,100,[],Crossref affiliation deposits may be incomplete
+31833849,Jezorwski J,bristol-myers squibb,,,,,,,,Crossref,NOT_OBSERVED,0,18,17,[],Crossref affiliation deposits may be incomplete
+32899071,Tsushima T,boehringer ingelheim,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2177,100,[],Crossref affiliation deposits may be incomplete
+28356319,Graungaard T,johnson & johnson,,,,,,,,Crossref,NOT_OBSERVED,0,64,63,[],Crossref affiliation deposits may be incomplete
+31533906,Agarwal R,eli lilly,,,,,,,,Crossref,SEARCH_TRUNCATED,0,61610,111,[],Crossref affiliation deposits may be incomplete
+33074326,Rakez M,roche,,,,,,,,Crossref,SEARCH_TRUNCATED,0,220,100,[],Crossref affiliation deposits may be incomplete
+27486125,Chen L,astrazeneca,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1533407,200,[],Crossref affiliation deposits may be incomplete
+31662218,Steiner T,pfizer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,17905,102,[],Crossref affiliation deposits may be incomplete
+31780586,Wiberg M,sanofi,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1174,100,[],Crossref affiliation deposits may be incomplete
+26730841,Alexopoulos D,bayer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,3205,100,[],Crossref affiliation deposits may be incomplete
+32993747,Brentnall AR,sanofi,,,,,,,,Crossref,SEARCH_TRUNCATED,0,9550,101,[],Crossref affiliation deposits may be incomplete
+30913005,Patel AD,takeda,,,,,,,,Crossref,SEARCH_TRUNCATED,0,195196,183,[],Crossref affiliation deposits may be incomplete
+33074326,Cervantes A,pfizer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,15874,104,[],Crossref affiliation deposits may be incomplete
+28328234,Garhyan P,eli lilly,,,,,,,,Crossref,NOT_OBSERVED,0,45,44,[],Crossref affiliation deposits may be incomplete
+30802897,Grote N,pfizer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2719,100,[],Crossref affiliation deposits may be incomplete
+33121997,Manaka D,bristol-myers squibb,,,,,,,,Crossref,SEARCH_TRUNCATED,0,998,100,[],Crossref affiliation deposits may be incomplete
+32979645,Caponnetto S,novartis,,,,,,,,Crossref,SEARCH_TRUNCATED,0,448,100,[],Crossref affiliation deposits may be incomplete
+27182031,Jinnouchi H,boehringer ingelheim,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1556,100,[],Crossref affiliation deposits may be incomplete
+28722480,Rojeski M,merck,,,,,,,,Crossref,NOT_OBSERVED,0,42,41,[],Crossref affiliation deposits may be incomplete
+32977220,Bermejo LG,msd,,,,,,,,Crossref,SEARCH_TRUNCATED,0,10597,100,[],Crossref affiliation deposits may be incomplete
+32693197,Becker RC,bristol-myers squibb,,,,,,,,Crossref,SEARCH_TRUNCATED,0,60373,200,[],Crossref affiliation deposits may be incomplete
+30091172,Lee J,msd,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1120718,160,[],Crossref affiliation deposits may be incomplete
+32641447,Dean L,biogen,,,,,,,,Crossref,SEARCH_TRUNCATED,0,57211,106,[],Crossref affiliation deposits may be incomplete
+30632023,Castrellon A,bms,,,,,,,,Crossref,SEARCH_TRUNCATED,0,127,100,[],Crossref affiliation deposits may be incomplete
+24558019,Kostev K,bms,,,,,,,,Crossref,SEARCH_TRUNCATED,0,418,100,[],Crossref affiliation deposits may be incomplete
+27474357,Knebel H,roche,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1382,100,[],Crossref affiliation deposits may be incomplete
+19220164,Berger WE,astrazeneca,,,,,,,,Crossref,SEARCH_TRUNCATED,0,27249,104,[],Crossref affiliation deposits may be incomplete
+32979645,Lonardi S,roche,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1625,102,[],Crossref affiliation deposits may be incomplete
+31738371,Navar AM,amgen,,,,,,,,Crossref,SEARCH_TRUNCATED,0,12576,108,[],Crossref affiliation deposits may be incomplete
+17705570,Bahceci M,pfizer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,194,100,[],Crossref affiliation deposits may be incomplete
+31391573,Rasmussen DB,pfizer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,21931,113,[],Crossref affiliation deposits may be incomplete
+21532369,Vandoros G,bristol-myers squibb,,,,,,,,Crossref,NOT_OBSERVED,0,55,54,[],Crossref affiliation deposits may be incomplete
+31955410,Izmailova ES,takeda,,,,,,,,Crossref,SEARCH_TRUNCATED,0,6781,105,[],Crossref affiliation deposits may be incomplete
+31732180,Sui Y,pfizer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,31908,103,[],Crossref affiliation deposits may be incomplete
+30033433,Leiter LA,gsk,,,,,,,,Crossref,SEARCH_TRUNCATED,0,165449,131,[],Crossref affiliation deposits may be incomplete
+31935028,Lassen MR,novartis,,,,,,,,Crossref,SEARCH_TRUNCATED,0,22464,105,[],Crossref affiliation deposits may be incomplete
+29468559,Liebl A,roche,,,,,,,,Crossref,SEARCH_TRUNCATED,0,978,101,[],Crossref affiliation deposits may be incomplete
+30265816,Du X,gsk,,,,,,,,Crossref,SEARCH_TRUNCATED,0,246317,109,[],Crossref affiliation deposits may be incomplete
+31841699,Gillen M,astrazeneca,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2246,118,[],Crossref affiliation deposits may be incomplete
+31996367,Naraghi K,janssen,,,,,,,,Crossref,SEARCH_TRUNCATED,0,563,100,[],Crossref affiliation deposits may be incomplete
+26095190,Yu M,eli lilly,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1000736,199,[],Crossref affiliation deposits may be incomplete
+32899071,Yamashita H,msd,,,,,,,,Crossref,SEARCH_TRUNCATED,0,32132,101,[],Crossref affiliation deposits may be incomplete
+31073921,Uebelhart D,eli lilly,,,,,,,,Crossref,NOT_OBSERVED,0,65,64,[],Crossref affiliation deposits may be incomplete
+33067698,Machnicki G,takeda,,,,,,,,Crossref,SEARCH_TRUNCATED,0,169,100,[],Crossref affiliation deposits may be incomplete
+12774785,van Gilst WH,eli lilly,,,,,,,,Crossref,SEARCH_TRUNCATED,0,282886,134,[],Crossref affiliation deposits may be incomplete
+26451101,Tunceli O,astrazeneca,,,,,,,,Crossref,SEARCH_TRUNCATED,0,141,101,[],Crossref affiliation deposits may be incomplete
+28596292,Civelli M,boehringer ingelheim,,,,,,,,Crossref,SEARCH_TRUNCATED,0,259,100,[],Crossref affiliation deposits may be incomplete
+31344332,Banach M,merck,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2438,100,[],Crossref affiliation deposits may be incomplete
+32406768,dell'Anna MP,novartis,,,,,,,,Crossref,SEARCH_TRUNCATED,0,617693,200,[],Crossref affiliation deposits may be incomplete
+32687751,Sparks JA,nih,,,,,,,,Crossref,SEARCH_TRUNCATED,0,26683,131,[],Crossref affiliation deposits may be incomplete
+31815931,Haller H,boehringer ingelheim,,,,,,,,Crossref,SEARCH_TRUNCATED,0,9035,103,[],Crossref affiliation deposits may be incomplete
+32568632,Dumas A,astrazeneca,,,,,,,,Crossref,SEARCH_TRUNCATED,0,7167,106,[],Crossref affiliation deposits may be incomplete
+30723140,Estévez LG,eli lilly,,,,,,,,Crossref,SEARCH_TRUNCATED,0,6817,101,[],Crossref affiliation deposits may be incomplete
+32693197,Blackstone E,novartis,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1083,100,[],Crossref affiliation deposits may be incomplete
+31073921,Bruyère O,sanofi,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1284,100,[],Crossref affiliation deposits may be incomplete
+32105179,Wilson K,amgen,,,,,,,,Crossref,SEARCH_TRUNCATED,0,157838,134,[],Crossref affiliation deposits may be incomplete
+30294990,Hazell P,novartis,,,,,,,,Crossref,SEARCH_TRUNCATED,0,991,100,[],Crossref affiliation deposits may be incomplete
+26006754,Hardaker L,astrazeneca,,,,,,,,Crossref,SEARCH_TRUNCATED,0,243,103,[],Crossref affiliation deposits may be incomplete
+27873152,Stender-Petersen K,novartis,,,,,,,,Crossref,SEARCH_TRUNCATED,0,32282,111,[],Crossref affiliation deposits may be incomplete
+32660977,de la Torre I,bristol-myers squibb,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2423528,200,[],Crossref affiliation deposits may be incomplete
+27362975,Semlitsch T,medtronic,,,,,,,,Crossref,SEARCH_TRUNCATED,0,184,100,[],Crossref affiliation deposits may be incomplete
+33419853,Yamada Y,johnson & johnson,,,,,,,,Crossref,SEARCH_TRUNCATED,0,59427,118,[],Crossref affiliation deposits may be incomplete
+30548692,Gotoh M,glaxosmithkline,,,,,,,,Crossref,SEARCH_TRUNCATED,0,4085,101,[],Crossref affiliation deposits may be incomplete
+32323191,Solms A,johnson & johnson,,,,,,,,Crossref,SEARCH_TRUNCATED,0,624,100,[],Crossref affiliation deposits may be incomplete
+32568632,Pinto S,eli lilly,,,,,,,,Crossref,SEARCH_TRUNCATED,0,111720,108,[],Crossref affiliation deposits may be incomplete
+28113032,Comarella L,glaxosmithkline,,,,,,,,Crossref,NOT_OBSERVED,0,42,41,[],Crossref affiliation deposits may be incomplete
+29241374,Elisaf MS,boehringer ingelheim,,,,,,,,Crossref,SEARCH_TRUNCATED,0,16405,103,[],Crossref affiliation deposits may be incomplete
+32719038,Emeanuru K,boehringer ingelheim,,,,,,,,Crossref,NOT_OBSERVED,0,36,35,[],Crossref affiliation deposits may be incomplete
+29300101,Ortega M,janssen,,,,,,,,Crossref,SEARCH_TRUNCATED,0,52581,103,[],Crossref affiliation deposits may be incomplete
+26717493,Wyrwich K,evidera,,,,,,,,Crossref,SEARCH_TRUNCATED,0,182,119,[],Crossref affiliation deposits may be incomplete
+31847610,Danese S,msd,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2875,103,[],Crossref affiliation deposits may be incomplete
+30675873,Greenberg L,merck,,,,,,,,Crossref,SEARCH_TRUNCATED,0,14092,118,[],Crossref affiliation deposits may be incomplete
+32880824,Imaizumi Y,pfizer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,3049,100,[],Crossref affiliation deposits may be incomplete
+31623493,Citraro R,pfizer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,249,100,[],Crossref affiliation deposits may be incomplete
+29676944,Colleoni M,merck,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1047,100,[],Crossref affiliation deposits may be incomplete
+32482616,Vranckx P,medtronic,,,,,,,,Crossref,SEARCH_TRUNCATED,0,467,100,[],Crossref affiliation deposits may be incomplete
+27871928,Giganti F,glaxosmithkline,,,,,,,,Crossref,SEARCH_TRUNCATED,0,514,101,[],Crossref affiliation deposits may be incomplete
+31392960,Lyle MA,merck,,,,,,,,Crossref,SUPPORTED,5,725084,200,"[{""id"": ""10.1002/cpt.1258"", ""doi"": ""10.1002/cpt.1258"", ""url"": ""https://doi.org/10.1002/cpt.1258"", ""author"": ""Lei Ma"", ""affiliation"": ""Merck &amp; Co., Inc.  Kenilworth New Jersey USA""}, {""id"": ""10.1002/alz.073427"", ""doi"": ""10.1002/alz.073427"", ""url"": ""https://doi.org/10.1002/alz.073427"", ""author"": ""Lei M Ma"", ""affiliation"": ""Merck Sharp &amp; Dohme LLC, West Point, PA  USA""}, {""id"": ""10.1021/acsmedchemlett.8b00095"", ""doi"": ""10.1021/acsmedchemlett.8b00095"", ""url"": ""https://doi.org/10.1021/acsmedchemlett.8b00095"", ""author"": ""Lei Ma"", ""affiliation"": ""MRL, Merck & Co., Inc., Kenilworth, New Jersey 07033, United States""}, {""id"": ""10.1002/alz70856_103695"", ""doi"": ""10.1002/alz70856_103695"", ""url"": ""https://doi.org/10.1002/alz70856_103695"", ""author"": ""Lei M Ma"", ""affiliation"": ""Merck Sharp &amp; Dohme LLC, West Point, PA, USA""}, {""id"": ""10.1002/prp2.354"", ""doi"": ""10.1002/prp2.354"", ""url"": ""https://doi.org/10.1002/prp2.354"", ""author"": ""Lijun Ma"", ""affiliation"": ""Department of Cardiometabolic Diseases Merck &amp; Co., Inc. 2000 Galloping Hill Road Kenilworth New Jersey 07033""}]",
+32660977,de la Torre I,msd,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2423528,200,[],Crossref affiliation deposits may be incomplete
+27692272,Roth T,merck,,,,,,,,Crossref,SEARCH_TRUNCATED,0,28537,133,[],Crossref affiliation deposits may be incomplete
+31924322,Ten Berg JM,boehringer ingelheim,,,,,,,,Crossref,SEARCH_TRUNCATED,0,63255,127,[],Crossref affiliation deposits may be incomplete
+20200547,Karki S,boehringer ingelheim,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1273,100,[],Crossref affiliation deposits may be incomplete
+32984892,Hijazi Z,merck,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2533,100,[],Crossref affiliation deposits may be incomplete
+28271055,Bressler B,pfizer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2333,107,[],Crossref affiliation deposits may be incomplete
+30716716,Cuzzubbo S,gsk,,,,,,,,Crossref,SEARCH_TRUNCATED,0,107,99,[],Crossref affiliation deposits may be incomplete
+31375422,Sjöström CD,eli lilly,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2677,103,[],Crossref affiliation deposits may be incomplete
+32035891,Mullens W,janssen,,,,,,,,Crossref,SEARCH_TRUNCATED,0,843,100,[],Crossref affiliation deposits may be incomplete
+31889526,Bressi E,pfizer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,320,100,[],Crossref affiliation deposits may be incomplete
+33237321,Bukvic N,johnson & johnson,,,,,,,,Crossref,SEARCH_TRUNCATED,0,237,100,[],Crossref affiliation deposits may be incomplete
+31712995,Marshall L,pfizer,,,,,,,,Crossref,SEARCH_TRUNCATED,0,50754,167,[],Crossref affiliation deposits may be incomplete
+31958280,Ducourau E,pfizer,,,,,,,,Crossref,NOT_OBSERVED,0,16,15,[],Crossref affiliation deposits may be incomplete
+31481505,Porcu L,novartis,,,,,,,,Crossref,SEARCH_TRUNCATED,0,1815,100,[],Crossref affiliation deposits may be incomplete
+24112375,Conradsen Hiort L,merck,,,,,,,,Crossref,SEARCH_TRUNCATED,0,275,99,[],Crossref affiliation deposits may be incomplete
+32969288,MacDougall K,sanofi,,,,,,,,Crossref,SEARCH_TRUNCATED,0,2389,110,[],Crossref affiliation deposits may be incomplete
