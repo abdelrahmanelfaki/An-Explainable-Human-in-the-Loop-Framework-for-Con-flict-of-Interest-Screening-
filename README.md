@@ -8,6 +8,7 @@ https://dataverse.tdl.org/dataset.xhtml?persistentId=doi:10.18738/T8/GBSTTH
 First Program
 fetch_pubmed_authors.py  
 Location in manuscript: Section 5.1, Algorithm 1
+Dataset: COIPonD_COI_Declared.xlsx
 Retrieves author names, publication titles, journals, and dates from PubMed. As explained in Section 5.1 of your manuscript, the original disclosure dataset does not contain all the author information required for relationship analysis. Therefore, the program enriches each publication record using its PubMed identifier (PMID).
 This program provides the data-enrichment component of the framework. It connects COI disclosure records with their corresponding authors, thereby creating the information needed for subsequent author–organization relationship analysis.
 Second Program
