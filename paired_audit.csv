@@ -1,0 +1,201 @@
+﻿pmid,author,organization,relationship_type,system_verdict,doi,evidence_pmids,evidence_dois,reference_label,reference_basis,pubmed_status,crossref_status,pubmed_evidence_count,crossref_evidence_count,shared_underlying_dois,distinct_evidence_dois,both_supported
+29061652,Baker HE,eli lilly,,,,,,,,SEARCH_TRUNCATED,SEARCH_TRUNCATED,0,0,,0,False
+30033433,Dagenais GR,bayer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30723140,Diaz-Padilla I,amgen,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32628644,Bovin A,boehringer ingelheim,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+27780334,Loft H,eli lilly,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+27486125,Chang AM,eli lilly,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31758215,Pazzagli L,astrazeneca,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32167992,Dickinson L,bms,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+27758758,Ainsua-Enrich E,msd,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30675873,Jensen ME,janssen,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+28295934,Famulla S,roche diagnostics,,,,,,,,NOT_OBSERVED,NOT_OBSERVED,0,0,,0,False
+31780586,Schou M,msd,,,,,,,,SEARCH_TRUNCATED,SEARCH_TRUNCATED,0,0,,0,False
+25684082,Mikkola TS,gsk,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31365188,Behm MO,astrazeneca,,,,,,,,SEARCH_TRUNCATED,SEARCH_TRUNCATED,0,0,,0,False
+25880207,Tanihara H,nih,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+21463522,Quirce S,pfizer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31785951,Dominguez-Rodriguez A,bayer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+29151036,Williams B,abbvie,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30632023,Joy AA,amgen,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+28538024,Mathews M,janssen,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+25850968,Engel SS,johnson & johnson,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+29662293,Umegaki E,takeda,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+29564735,Balasubramanian A,eli lilly,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+25414399,Johnson J,boehringer ingelheim,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32054669,Schmid J,novartis,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31495881,Perkovic V,amgen,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31533906,Ma J,glaxosmithkline,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30814321,Dans A,boehringer ingelheim,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31700170,Vaduganathan M,amgen,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31769309,Kaku K,astrazeneca,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31955260,Mannucci E,merck,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32660977,Goupille P,abbvie,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31527563,Sterliński M,boston scientific,,,,,,,,SEARCH_TRUNCATED,SEARCH_TRUNCATED,0,0,,0,False
+29858004,Blauer-Peterson C,gsk,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+21527122,Athanasiou M,glaxosmithkline,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+29504812,Suzuki S,eli lilly,,,,,,,,SEARCH_TRUNCATED,SEARCH_TRUNCATED,0,0,,0,False
+30632023,Gauthier ER,bms,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31375659,Ratti E,takeda,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+27474357,Chitra R,roche,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31858522,Schindewolf M,glaxosmithkline,,,,,,,,SEARCH_TRUNCATED,SEARCH_TRUNCATED,0,0,,0,False
+30019249,Taguchi A,msd,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30655665,Voß F,merck,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32767806,Nosaka K,pfizer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31422111,Palau P,boehringer ingelheim,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32552153,Watada H,novartis,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+29128193,Chen B,astrazeneca,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30091172,Lee C,novartis,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31712995,Marshall L,janssen,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+25975816,Ubukata M,glaxosmithkline,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30956267,Murohara T,novartis,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+23604551,Eymard E,novartis,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+29932311,Pieske B,sanofi,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32767806,Suehiro Y,takeda,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32482616,Windecker S,merck,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+27486125,Chang AM,msd,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+29627772,Misawa S,pfizer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31848933,Brody B,novartis,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32185580,de Boer RA,roche,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32767806,Minauchi K,novartis,,,,,,,,NOT_OBSERVED,NOT_OBSERVED,0,0,,0,False
+32478848,Chiang CE,msd,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31481505,Ponzo M,pfizer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32295593,Beier J,merck,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+33121997,Shiomi A,novartis,,,,,,,,SEARCH_TRUNCATED,SEARCH_TRUNCATED,0,0,,0,False
+28356319,Rose L,msd,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31500631,Marshall L,merck,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31568820,Gonçalves J,merck,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+33152122,Efremov L,bayer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31324921,Capucci A,astrazeneca,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30468145,Round J,janssen,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+29293261,Gibbons C,roche,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32699904,Kivitz A,sanofi,,,,,,,,SUPPORTED,SEARCH_TRUNCATED,1,0,,1,False
+27377815,Makri S,abbvie,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32336236,Weber MA,boston scientific,,,,,,,,SEARCH_TRUNCATED,SEARCH_TRUNCATED,0,0,,0,False
+32098513,Tzanetakou V,sanofi,,,,,,,,NOT_OBSERVED,NOT_OBSERVED,0,0,,0,False
+32473355,Bonello L,boston scientific,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+27495291,Patel CA,johnson & johnson,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32880824,Takahashi T,pfizer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30836381,Leucht S,boehringer ingelheim,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+33326457,Dossier A,msd,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31189978,Sakuma I,astrazeneca,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+25498130,Andersen TH,msd,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+29171139,Weill J,takeda,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31256905,Jiandani D,boehringer ingelheim,,,,,,,,NOT_OBSERVED,NOT_OBSERVED,0,0,,0,False
+28113032,Hart L,regeneron,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+28322904,Huang M,abbvie,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31975354,Lipardi C,janssen,,,,,,,,NOT_OBSERVED,NOT_OBSERVED,0,0,,0,False
+28475676,Agewall S,roche,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31759969,Frauscher B,astrazeneca,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+28356319,Mathieu C,boehringer ingelheim,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31495881,Cooper ME,amgen,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32844923,Venade G,johnson & johnson,,,,,,,,NOT_OBSERVED,NOT_OBSERVED,0,0,,0,False
+32035891,Raghavendra P,takeda,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31162549,Ghiadoni L,eli lilly,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+28852909,Craig Lockhart A,takeda,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+28968163,Chen SC,amgen,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+23076926,Cipriani A,nih,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31806214,Jansky P,roche diagnostics,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32505262,Kaplovitch E,sanofi,,,,,,,,NOT_OBSERVED,NOT_OBSERVED,0,0,,0,False
+32220510,Brodsky S,pfizer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32694638,Ilmonen P,janssen,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+28229223,Lingor P,abbvie,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31078482,Balmforth C,nih,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+27696221,Heise T,roche,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32336236,Julius S,sanofi,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31785951,Autelli M,bayer,,,,,,,,NOT_OBSERVED,NOT_OBSERVED,0,0,,0,False
+30675873,Greenberg L,msd,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31208705,Azuri J,merck,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31833849,Jezorwski J,bristol-myers squibb,,,,,,,,NOT_OBSERVED,NOT_OBSERVED,0,0,,0,False
+32899071,Tsushima T,boehringer ingelheim,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+28356319,Graungaard T,johnson & johnson,,,,,,,,NOT_OBSERVED,NOT_OBSERVED,0,0,,0,False
+31533906,Agarwal R,eli lilly,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+33074326,Rakez M,roche,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+27486125,Chen L,astrazeneca,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31662218,Steiner T,pfizer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31780586,Wiberg M,sanofi,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+26730841,Alexopoulos D,bayer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32993747,Brentnall AR,sanofi,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30913005,Patel AD,takeda,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+33074326,Cervantes A,pfizer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+28328234,Garhyan P,eli lilly,,,,,,,,NOT_OBSERVED,NOT_OBSERVED,0,0,,0,False
+30802897,Grote N,pfizer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+33121997,Manaka D,bristol-myers squibb,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32979645,Caponnetto S,novartis,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+27182031,Jinnouchi H,boehringer ingelheim,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+28722480,Rojeski M,merck,,,,,,,,NOT_OBSERVED,NOT_OBSERVED,0,0,,0,False
+32977220,Bermejo LG,msd,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32693197,Becker RC,bristol-myers squibb,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30091172,Lee J,msd,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32641447,Dean L,biogen,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30632023,Castrellon A,bms,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+24558019,Kostev K,bms,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+27474357,Knebel H,roche,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+19220164,Berger WE,astrazeneca,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32979645,Lonardi S,roche,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31738371,Navar AM,amgen,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+17705570,Bahceci M,pfizer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31391573,Rasmussen DB,pfizer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+21532369,Vandoros G,bristol-myers squibb,,,,,,,,NOT_OBSERVED,NOT_OBSERVED,0,0,,0,False
+31955410,Izmailova ES,takeda,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31732180,Sui Y,pfizer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30033433,Leiter LA,gsk,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31935028,Lassen MR,novartis,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+29468559,Liebl A,roche,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30265816,Du X,gsk,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31841699,Gillen M,astrazeneca,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31996367,Naraghi K,janssen,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+26095190,Yu M,eli lilly,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32899071,Yamashita H,msd,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31073921,Uebelhart D,eli lilly,,,,,,,,NOT_OBSERVED,NOT_OBSERVED,0,0,,0,False
+33067698,Machnicki G,takeda,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+12774785,van Gilst WH,eli lilly,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+26451101,Tunceli O,astrazeneca,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+28596292,Civelli M,boehringer ingelheim,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31344332,Banach M,merck,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32406768,dell'Anna MP,novartis,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32687751,Sparks JA,nih,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31815931,Haller H,boehringer ingelheim,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32568632,Dumas A,astrazeneca,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30723140,Estévez LG,eli lilly,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32693197,Blackstone E,novartis,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31073921,Bruyère O,sanofi,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32105179,Wilson K,amgen,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30294990,Hazell P,novartis,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+26006754,Hardaker L,astrazeneca,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+27873152,Stender-Petersen K,novartis,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32660977,de la Torre I,bristol-myers squibb,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+27362975,Semlitsch T,medtronic,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+33419853,Yamada Y,johnson & johnson,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30548692,Gotoh M,glaxosmithkline,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32323191,Solms A,johnson & johnson,,,,,,,,SEARCH_TRUNCATED,SEARCH_TRUNCATED,0,0,,0,False
+32568632,Pinto S,eli lilly,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+28113032,Comarella L,glaxosmithkline,,,,,,,,NOT_OBSERVED,NOT_OBSERVED,0,0,,0,False
+29241374,Elisaf MS,boehringer ingelheim,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32719038,Emeanuru K,boehringer ingelheim,,,,,,,,NOT_OBSERVED,NOT_OBSERVED,0,0,,0,False
+29300101,Ortega M,janssen,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+26717493,Wyrwich K,evidera,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31847610,Danese S,msd,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30675873,Greenberg L,merck,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32880824,Imaizumi Y,pfizer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31623493,Citraro R,pfizer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+29676944,Colleoni M,merck,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32482616,Vranckx P,medtronic,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+27871928,Giganti F,glaxosmithkline,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31392960,Lyle MA,merck,,,,,,,,SEARCH_TRUNCATED,SUPPORTED,0,5,,5,False
+32660977,de la Torre I,msd,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+27692272,Roth T,merck,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31924322,Ten Berg JM,boehringer ingelheim,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+20200547,Karki S,boehringer ingelheim,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32984892,Hijazi Z,merck,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+28271055,Bressler B,pfizer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+30716716,Cuzzubbo S,gsk,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31375422,Sjöström CD,eli lilly,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32035891,Mullens W,janssen,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31889526,Bressi E,pfizer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+33237321,Bukvic N,johnson & johnson,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31712995,Marshall L,pfizer,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+31958280,Ducourau E,pfizer,,,,,,,,NOT_OBSERVED,NOT_OBSERVED,0,0,,0,False
+31481505,Porcu L,novartis,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+24112375,Conradsen Hiort L,merck,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
+32969288,MacDougall K,sanofi,,,,,,,,NOT_OBSERVED,SEARCH_TRUNCATED,0,0,,0,False
