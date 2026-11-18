@@ -1,0 +1,58 @@
+{
+  "timestamp_utc": "2026-10-23T21:02:24.776252+00:00",
+  "input": "COI_validation_input_200.csv",
+  "total_records_considered": 200,
+  "pubmed": {
+    "SEARCH_TRUNCATED": 10,
+    "NOT_OBSERVED": 189,
+    "SUPPORTED": 1
+  },
+  "crossref": {
+    "SEARCH_TRUNCATED": 182,
+    "NOT_OBSERVED": 17,
+    "SUPPORTED": 1
+  },
+  "supported_in_both": 0,
+  "metrics": {
+    "system_verdict": {
+      "n": 0,
+      "precision": null,
+      "recall": null,
+      "accuracy": null,
+      "tp": null,
+      "fp": null,
+      "fn": null,
+      "tn": null,
+      "note": "No eligible independent binary reference labels; original disclosures and tested sources do not count."
+    },
+    "pubmed_status": {
+      "n": 0,
+      "precision": null,
+      "recall": null,
+      "accuracy": null,
+      "tp": null,
+      "fp": null,
+      "fn": null,
+      "tn": null,
+      "note": "No eligible independent binary reference labels; original disclosures and tested sources do not count."
+    },
+    "crossref_status": {
+      "n": 0,
+      "precision": null,
+      "recall": null,
+      "accuracy": null,
+      "tp": null,
+      "fp": null,
+      "fn": null,
+      "tn": null,
+      "note": "No eligible independent binary reference labels; original disclosures and tested sources do not count."
+    }
+  },
+  "warnings": [
+    "Affiliation does not prove consulting/funding/COI or impropriety.",
+    "Absence of a match is not evidence of absence.",
+    "Two source records about the same underlying publication are not independent observations.",
+    "Excluding the original PMID does not exclude prior Algorithm 2 supporting papers unless evidence IDs were supplied.",
+    "Source-specific reports are verification coverage; metrics need independently supported binary labels."
+  ]
+}
