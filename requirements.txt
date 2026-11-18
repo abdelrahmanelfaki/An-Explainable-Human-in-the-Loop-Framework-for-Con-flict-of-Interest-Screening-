@@ -1,0 +1,13 @@
+# COI framework: Python dependencies for all three GitHub scripts
+# Proposed reproducible dependency set (Python 3.11 recommended).
+# These versions are suggested; verify by running your programs and tests
+# before describing them as the versions used for the published experiments.
+#
+# fetch_pubmed_authors.py: pandas, Bio.Entrez (biopython), openpyxl
+# author_org_relation_checker.py: pandas, requests, openpyxl
+# COI_PubMed_Crossref_Separate_Validator.py: requests, pandas/openpyxl for XLSX input
+
+biopython==1.85
+pandas==2.2.3
+requests==2.32.3
+openpyxl==3.1.5
