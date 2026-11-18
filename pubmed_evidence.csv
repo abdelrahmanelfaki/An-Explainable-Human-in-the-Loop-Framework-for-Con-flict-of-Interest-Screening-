@@ -1,0 +1,201 @@
+﻿pmid,author,organization,relationship_type,system_verdict,doi,evidence_pmids,evidence_dois,reference_label,reference_basis,source,source_status,evidence_count,candidate_count,checked,evidence_json,detail
+29061652,Baker HE,eli lilly,,,,,,,,PubMed,SEARCH_TRUNCATED,0,4939,180,[],Not observed is not proof of absence
+30033433,Dagenais GR,bayer,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+30723140,Diaz-Padilla I,amgen,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+32628644,Bovin A,boehringer ingelheim,,,,,,,,PubMed,NOT_OBSERVED,0,62,62,[],Not observed is not proof of absence
+27780334,Loft H,eli lilly,,,,,,,,PubMed,NOT_OBSERVED,0,6,6,[],Not observed is not proof of absence
+27486125,Chang AM,eli lilly,,,,,,,,PubMed,NOT_OBSERVED,0,2,2,[],Not observed is not proof of absence
+31758215,Pazzagli L,astrazeneca,,,,,,,,PubMed,NOT_OBSERVED,0,19,19,[],Not observed is not proof of absence
+32167992,Dickinson L,bms,,,,,,,,PubMed,NOT_OBSERVED,0,17,17,[],Not observed is not proof of absence
+27758758,Ainsua-Enrich E,msd,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+30675873,Jensen ME,janssen,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+28295934,Famulla S,roche diagnostics,,,,,,,,PubMed,NOT_OBSERVED,0,9,9,[],Not observed is not proof of absence
+31780586,Schou M,msd,,,,,,,,PubMed,SEARCH_TRUNCATED,0,239,180,[],Not observed is not proof of absence
+25684082,Mikkola TS,gsk,,,,,,,,PubMed,NOT_OBSERVED,0,1,1,[],Not observed is not proof of absence
+31365188,Behm MO,astrazeneca,,,,,,,,PubMed,SEARCH_TRUNCATED,0,220,180,[],Not observed is not proof of absence
+25880207,Tanihara H,nih,,,,,,,,PubMed,NOT_OBSERVED,0,2,2,[],Not observed is not proof of absence
+21463522,Quirce S,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+31785951,Dominguez-Rodriguez A,bayer,,,,,,,,PubMed,NOT_OBSERVED,0,3,3,[],Not observed is not proof of absence
+29151036,Williams B,abbvie,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+30632023,Joy AA,amgen,,,,,,,,PubMed,NOT_OBSERVED,0,77,77,[],Not observed is not proof of absence
+28538024,Mathews M,janssen,,,,,,,,PubMed,NOT_OBSERVED,0,104,104,[],Not observed is not proof of absence
+25850968,Engel SS,johnson & johnson,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+29662293,Umegaki E,takeda,,,,,,,,PubMed,NOT_OBSERVED,0,3,3,[],Not observed is not proof of absence
+29564735,Balasubramanian A,eli lilly,,,,,,,,PubMed,NOT_OBSERVED,0,47,47,[],Not observed is not proof of absence
+25414399,Johnson J,boehringer ingelheim,,,,,,,,PubMed,NOT_OBSERVED,0,7,7,[],Not observed is not proof of absence
+32054669,Schmid J,novartis,,,,,,,,PubMed,NOT_OBSERVED,0,82,82,[],Not observed is not proof of absence
+31495881,Perkovic V,amgen,,,,,,,,PubMed,NOT_OBSERVED,0,69,69,[],Not observed is not proof of absence
+31533906,Ma J,glaxosmithkline,,,,,,,,PubMed,NOT_OBSERVED,0,50,50,[],Not observed is not proof of absence
+30814321,Dans A,boehringer ingelheim,,,,,,,,PubMed,NOT_OBSERVED,0,55,55,[],Not observed is not proof of absence
+31700170,Vaduganathan M,amgen,,,,,,,,PubMed,NOT_OBSERVED,0,61,61,[],Not observed is not proof of absence
+31769309,Kaku K,astrazeneca,,,,,,,,PubMed,NOT_OBSERVED,0,91,91,[],Not observed is not proof of absence
+31955260,Mannucci E,merck,,,,,,,,PubMed,NOT_OBSERVED,0,82,82,[],Not observed is not proof of absence
+32660977,Goupille P,abbvie,,,,,,,,PubMed,NOT_OBSERVED,0,24,24,[],Not observed is not proof of absence
+31527563,Sterliński M,boston scientific,,,,,,,,PubMed,SEARCH_TRUNCATED,0,239,180,[],Not observed is not proof of absence
+29858004,Blauer-Peterson C,gsk,,,,,,,,PubMed,NOT_OBSERVED,0,1,1,[],Not observed is not proof of absence
+21527122,Athanasiou M,glaxosmithkline,,,,,,,,PubMed,NOT_OBSERVED,0,15,15,[],Not observed is not proof of absence
+29504812,Suzuki S,eli lilly,,,,,,,,PubMed,SEARCH_TRUNCATED,0,316,180,[],Not observed is not proof of absence
+30632023,Gauthier ER,bms,,,,,,,,PubMed,NOT_OBSERVED,0,12,12,[],Not observed is not proof of absence
+31375659,Ratti E,takeda,,,,,,,,PubMed,NOT_OBSERVED,0,23,23,[],Not observed is not proof of absence
+27474357,Chitra R,roche,,,,,,,,PubMed,NOT_OBSERVED,0,8,8,[],Not observed is not proof of absence
+31858522,Schindewolf M,glaxosmithkline,,,,,,,,PubMed,SEARCH_TRUNCATED,0,288,180,[],Not observed is not proof of absence
+30019249,Taguchi A,msd,,,,,,,,PubMed,NOT_OBSERVED,0,32,32,[],Not observed is not proof of absence
+30655665,Voß F,merck,,,,,,,,PubMed,NOT_OBSERVED,0,3,3,[],Not observed is not proof of absence
+32767806,Nosaka K,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,67,67,[],Not observed is not proof of absence
+31422111,Palau P,boehringer ingelheim,,,,,,,,PubMed,NOT_OBSERVED,0,93,93,[],Not observed is not proof of absence
+32552153,Watada H,novartis,,,,,,,,PubMed,NOT_OBSERVED,0,2,2,[],Not observed is not proof of absence
+29128193,Chen B,astrazeneca,,,,,,,,PubMed,NOT_OBSERVED,0,11,11,[],Not observed is not proof of absence
+30091172,Lee C,novartis,,,,,,,,PubMed,NOT_OBSERVED,0,28,28,[],Not observed is not proof of absence
+31712995,Marshall L,janssen,,,,,,,,PubMed,NOT_OBSERVED,0,36,36,[],Not observed is not proof of absence
+25975816,Ubukata M,glaxosmithkline,,,,,,,,PubMed,NOT_OBSERVED,0,2,2,[],Not observed is not proof of absence
+30956267,Murohara T,novartis,,,,,,,,PubMed,NOT_OBSERVED,0,40,40,[],Not observed is not proof of absence
+23604551,Eymard E,novartis,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+29932311,Pieske B,sanofi,,,,,,,,PubMed,NOT_OBSERVED,0,23,23,[],Not observed is not proof of absence
+32767806,Suehiro Y,takeda,,,,,,,,PubMed,NOT_OBSERVED,0,11,11,[],Not observed is not proof of absence
+32482616,Windecker S,merck,,,,,,,,PubMed,NOT_OBSERVED,0,6,6,[],Not observed is not proof of absence
+27486125,Chang AM,msd,,,,,,,,PubMed,NOT_OBSERVED,0,2,2,[],Not observed is not proof of absence
+29627772,Misawa S,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,108,108,[],Not observed is not proof of absence
+31848933,Brody B,novartis,,,,,,,,PubMed,NOT_OBSERVED,0,29,29,[],Not observed is not proof of absence
+32185580,de Boer RA,roche,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+32767806,Minauchi K,novartis,,,,,,,,PubMed,NOT_OBSERVED,0,97,97,[],Not observed is not proof of absence
+32478848,Chiang CE,msd,,,,,,,,PubMed,NOT_OBSERVED,0,1,1,[],Not observed is not proof of absence
+31481505,Ponzo M,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,89,89,[],Not observed is not proof of absence
+32295593,Beier J,merck,,,,,,,,PubMed,NOT_OBSERVED,0,47,47,[],Not observed is not proof of absence
+33121997,Shiomi A,novartis,,,,,,,,PubMed,SEARCH_TRUNCATED,0,293,180,[],Not observed is not proof of absence
+28356319,Rose L,msd,,,,,,,,PubMed,NOT_OBSERVED,0,9,9,[],Not observed is not proof of absence
+31500631,Marshall L,merck,,,,,,,,PubMed,NOT_OBSERVED,0,33,33,[],Not observed is not proof of absence
+31568820,Gonçalves J,merck,,,,,,,,PubMed,NOT_OBSERVED,0,11,11,[],Not observed is not proof of absence
+33152122,Efremov L,bayer,,,,,,,,PubMed,NOT_OBSERVED,0,9,9,[],Not observed is not proof of absence
+31324921,Capucci A,astrazeneca,,,,,,,,PubMed,NOT_OBSERVED,0,35,35,[],Not observed is not proof of absence
+30468145,Round J,janssen,,,,,,,,PubMed,NOT_OBSERVED,0,18,18,[],Not observed is not proof of absence
+29293261,Gibbons C,roche,,,,,,,,PubMed,NOT_OBSERVED,0,13,13,[],Not observed is not proof of absence
+32699904,Kivitz A,sanofi,,,,,,,,PubMed,SUPPORTED,1,74,74,"[{""id"": ""34481066"", ""doi"": ""10.1016/j.ejps.2021.105987"", ""url"": ""https://pubmed.ncbi.nlm.nih.gov/34481066/"", ""author"": ""Kovar A"", ""affiliation"": ""Sanofi-Aventis Deutschland GmbH, Frankfurt/Main, Germany.""}]",
+27377815,Makri S,abbvie,,,,,,,,PubMed,NOT_OBSERVED,0,89,89,[],Not observed is not proof of absence
+32336236,Weber MA,boston scientific,,,,,,,,PubMed,SEARCH_TRUNCATED,0,10432,180,[],Not observed is not proof of absence
+32098513,Tzanetakou V,sanofi,,,,,,,,PubMed,NOT_OBSERVED,0,12,12,[],Not observed is not proof of absence
+32473355,Bonello L,boston scientific,,,,,,,,PubMed,NOT_OBSERVED,0,24,24,[],Not observed is not proof of absence
+27495291,Patel CA,johnson & johnson,,,,,,,,PubMed,NOT_OBSERVED,0,2,2,[],Not observed is not proof of absence
+32880824,Takahashi T,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,25,25,[],Not observed is not proof of absence
+30836381,Leucht S,boehringer ingelheim,,,,,,,,PubMed,NOT_OBSERVED,0,38,38,[],Not observed is not proof of absence
+33326457,Dossier A,msd,,,,,,,,PubMed,NOT_OBSERVED,0,63,63,[],Not observed is not proof of absence
+31189978,Sakuma I,astrazeneca,,,,,,,,PubMed,NOT_OBSERVED,0,19,19,[],Not observed is not proof of absence
+25498130,Andersen TH,msd,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+29171139,Weill J,takeda,,,,,,,,PubMed,NOT_OBSERVED,0,9,9,[],Not observed is not proof of absence
+31256905,Jiandani D,boehringer ingelheim,,,,,,,,PubMed,NOT_OBSERVED,0,5,5,[],Not observed is not proof of absence
+28113032,Hart L,regeneron,,,,,,,,PubMed,NOT_OBSERVED,0,5,5,[],Not observed is not proof of absence
+28322904,Huang M,abbvie,,,,,,,,PubMed,NOT_OBSERVED,0,30,30,[],Not observed is not proof of absence
+31975354,Lipardi C,janssen,,,,,,,,PubMed,NOT_OBSERVED,0,31,31,[],Not observed is not proof of absence
+28475676,Agewall S,roche,,,,,,,,PubMed,NOT_OBSERVED,0,138,138,[],Not observed is not proof of absence
+31759969,Frauscher B,astrazeneca,,,,,,,,PubMed,NOT_OBSERVED,0,6,6,[],Not observed is not proof of absence
+28356319,Mathieu C,boehringer ingelheim,,,,,,,,PubMed,NOT_OBSERVED,0,23,23,[],Not observed is not proof of absence
+31495881,Cooper ME,amgen,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+32844923,Venade G,johnson & johnson,,,,,,,,PubMed,NOT_OBSERVED,0,47,47,[],Not observed is not proof of absence
+32035891,Raghavendra P,takeda,,,,,,,,PubMed,NOT_OBSERVED,0,72,72,[],Not observed is not proof of absence
+31162549,Ghiadoni L,eli lilly,,,,,,,,PubMed,NOT_OBSERVED,0,10,10,[],Not observed is not proof of absence
+28852909,Craig Lockhart A,takeda,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+28968163,Chen SC,amgen,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+23076926,Cipriani A,nih,,,,,,,,PubMed,NOT_OBSERVED,0,9,9,[],Not observed is not proof of absence
+31806214,Jansky P,roche diagnostics,,,,,,,,PubMed,NOT_OBSERVED,0,33,33,[],Not observed is not proof of absence
+32505262,Kaplovitch E,sanofi,,,,,,,,PubMed,NOT_OBSERVED,0,18,18,[],Not observed is not proof of absence
+32220510,Brodsky S,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,97,97,[],Not observed is not proof of absence
+32694638,Ilmonen P,janssen,,,,,,,,PubMed,NOT_OBSERVED,0,8,8,[],Not observed is not proof of absence
+28229223,Lingor P,abbvie,,,,,,,,PubMed,NOT_OBSERVED,0,12,12,[],Not observed is not proof of absence
+31078482,Balmforth C,nih,,,,,,,,PubMed,NOT_OBSERVED,0,23,23,[],Not observed is not proof of absence
+27696221,Heise T,roche,,,,,,,,PubMed,NOT_OBSERVED,0,10,10,[],Not observed is not proof of absence
+32336236,Julius S,sanofi,,,,,,,,PubMed,NOT_OBSERVED,0,76,76,[],Not observed is not proof of absence
+31785951,Autelli M,bayer,,,,,,,,PubMed,NOT_OBSERVED,0,159,159,[],Not observed is not proof of absence
+30675873,Greenberg L,msd,,,,,,,,PubMed,NOT_OBSERVED,0,10,10,[],Not observed is not proof of absence
+31208705,Azuri J,merck,,,,,,,,PubMed,NOT_OBSERVED,0,40,40,[],Not observed is not proof of absence
+31833849,Jezorwski J,bristol-myers squibb,,,,,,,,PubMed,NOT_OBSERVED,0,19,19,[],Not observed is not proof of absence
+32899071,Tsushima T,boehringer ingelheim,,,,,,,,PubMed,NOT_OBSERVED,0,25,25,[],Not observed is not proof of absence
+28356319,Graungaard T,johnson & johnson,,,,,,,,PubMed,NOT_OBSERVED,0,12,12,[],Not observed is not proof of absence
+31533906,Agarwal R,eli lilly,,,,,,,,PubMed,NOT_OBSERVED,0,126,126,[],Not observed is not proof of absence
+33074326,Rakez M,roche,,,,,,,,PubMed,NOT_OBSERVED,0,120,120,[],Not observed is not proof of absence
+27486125,Chen L,astrazeneca,,,,,,,,PubMed,NOT_OBSERVED,0,7,7,[],Not observed is not proof of absence
+31662218,Steiner T,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,52,52,[],Not observed is not proof of absence
+31780586,Wiberg M,sanofi,,,,,,,,PubMed,NOT_OBSERVED,0,4,4,[],Not observed is not proof of absence
+26730841,Alexopoulos D,bayer,,,,,,,,PubMed,NOT_OBSERVED,0,12,12,[],Not observed is not proof of absence
+32993747,Brentnall AR,sanofi,,,,,,,,PubMed,NOT_OBSERVED,0,1,1,[],Not observed is not proof of absence
+30913005,Patel AD,takeda,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+33074326,Cervantes A,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,43,43,[],Not observed is not proof of absence
+28328234,Garhyan P,eli lilly,,,,,,,,PubMed,NOT_OBSERVED,0,17,17,[],Not observed is not proof of absence
+30802897,Grote N,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,17,17,[],Not observed is not proof of absence
+33121997,Manaka D,bristol-myers squibb,,,,,,,,PubMed,NOT_OBSERVED,0,38,38,[],Not observed is not proof of absence
+32979645,Caponnetto S,novartis,,,,,,,,PubMed,NOT_OBSERVED,0,68,68,[],Not observed is not proof of absence
+27182031,Jinnouchi H,boehringer ingelheim,,,,,,,,PubMed,NOT_OBSERVED,0,4,4,[],Not observed is not proof of absence
+28722480,Rojeski M,merck,,,,,,,,PubMed,NOT_OBSERVED,0,67,67,[],Not observed is not proof of absence
+32977220,Bermejo LG,msd,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+32693197,Becker RC,bristol-myers squibb,,,,,,,,PubMed,NOT_OBSERVED,0,1,1,[],Not observed is not proof of absence
+30091172,Lee J,msd,,,,,,,,PubMed,NOT_OBSERVED,0,14,14,[],Not observed is not proof of absence
+32641447,Dean L,biogen,,,,,,,,PubMed,NOT_OBSERVED,0,17,17,[],Not observed is not proof of absence
+30632023,Castrellon A,bms,,,,,,,,PubMed,NOT_OBSERVED,0,35,35,[],Not observed is not proof of absence
+24558019,Kostev K,bms,,,,,,,,PubMed,NOT_OBSERVED,0,26,26,[],Not observed is not proof of absence
+27474357,Knebel H,roche,,,,,,,,PubMed,NOT_OBSERVED,0,12,12,[],Not observed is not proof of absence
+19220164,Berger WE,astrazeneca,,,,,,,,PubMed,NOT_OBSERVED,0,1,1,[],Not observed is not proof of absence
+32979645,Lonardi S,roche,,,,,,,,PubMed,NOT_OBSERVED,0,48,48,[],Not observed is not proof of absence
+31738371,Navar AM,amgen,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+17705570,Bahceci M,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,5,5,[],Not observed is not proof of absence
+31391573,Rasmussen DB,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+21532369,Vandoros G,bristol-myers squibb,,,,,,,,PubMed,NOT_OBSERVED,0,10,10,[],Not observed is not proof of absence
+31955410,Izmailova ES,takeda,,,,,,,,PubMed,NOT_OBSERVED,0,23,23,[],Not observed is not proof of absence
+31732180,Sui Y,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,14,14,[],Not observed is not proof of absence
+30033433,Leiter LA,gsk,,,,,,,,PubMed,NOT_OBSERVED,0,18,18,[],Not observed is not proof of absence
+31935028,Lassen MR,novartis,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+29468559,Liebl A,roche,,,,,,,,PubMed,NOT_OBSERVED,0,61,61,[],Not observed is not proof of absence
+30265816,Du X,gsk,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+31841699,Gillen M,astrazeneca,,,,,,,,PubMed,NOT_OBSERVED,0,57,57,[],Not observed is not proof of absence
+31996367,Naraghi K,janssen,,,,,,,,PubMed,NOT_OBSERVED,0,67,67,[],Not observed is not proof of absence
+26095190,Yu M,eli lilly,,,,,,,,PubMed,NOT_OBSERVED,0,12,12,[],Not observed is not proof of absence
+32899071,Yamashita H,msd,,,,,,,,PubMed,NOT_OBSERVED,0,3,3,[],Not observed is not proof of absence
+31073921,Uebelhart D,eli lilly,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+33067698,Machnicki G,takeda,,,,,,,,PubMed,NOT_OBSERVED,0,44,44,[],Not observed is not proof of absence
+12774785,van Gilst WH,eli lilly,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+26451101,Tunceli O,astrazeneca,,,,,,,,PubMed,NOT_OBSERVED,0,2,2,[],Not observed is not proof of absence
+28596292,Civelli M,boehringer ingelheim,,,,,,,,PubMed,NOT_OBSERVED,0,23,23,[],Not observed is not proof of absence
+31344332,Banach M,merck,,,,,,,,PubMed,NOT_OBSERVED,0,65,65,[],Not observed is not proof of absence
+32406768,dell'Anna MP,novartis,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+32687751,Sparks JA,nih,,,,,,,,PubMed,NOT_OBSERVED,0,2,2,[],Not observed is not proof of absence
+31815931,Haller H,boehringer ingelheim,,,,,,,,PubMed,NOT_OBSERVED,0,16,16,[],Not observed is not proof of absence
+32568632,Dumas A,astrazeneca,,,,,,,,PubMed,NOT_OBSERVED,0,63,63,[],Not observed is not proof of absence
+30723140,Estévez LG,eli lilly,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+32693197,Blackstone E,novartis,,,,,,,,PubMed,NOT_OBSERVED,0,46,46,[],Not observed is not proof of absence
+31073921,Bruyère O,sanofi,,,,,,,,PubMed,NOT_OBSERVED,0,2,2,[],Not observed is not proof of absence
+32105179,Wilson K,amgen,,,,,,,,PubMed,NOT_OBSERVED,0,3,3,[],Not observed is not proof of absence
+30294990,Hazell P,novartis,,,,,,,,PubMed,NOT_OBSERVED,0,18,18,[],Not observed is not proof of absence
+26006754,Hardaker L,astrazeneca,,,,,,,,PubMed,NOT_OBSERVED,0,3,3,[],Not observed is not proof of absence
+27873152,Stender-Petersen K,novartis,,,,,,,,PubMed,NOT_OBSERVED,0,1,1,[],Not observed is not proof of absence
+32660977,de la Torre I,bristol-myers squibb,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+27362975,Semlitsch T,medtronic,,,,,,,,PubMed,NOT_OBSERVED,0,31,31,[],Not observed is not proof of absence
+33419853,Yamada Y,johnson & johnson,,,,,,,,PubMed,NOT_OBSERVED,0,4,4,[],Not observed is not proof of absence
+30548692,Gotoh M,glaxosmithkline,,,,,,,,PubMed,NOT_OBSERVED,0,54,54,[],Not observed is not proof of absence
+32323191,Solms A,johnson & johnson,,,,,,,,PubMed,SEARCH_TRUNCATED,0,258,180,[],Not observed is not proof of absence
+32568632,Pinto S,eli lilly,,,,,,,,PubMed,NOT_OBSERVED,0,118,118,[],Not observed is not proof of absence
+28113032,Comarella L,glaxosmithkline,,,,,,,,PubMed,NOT_OBSERVED,0,8,8,[],Not observed is not proof of absence
+29241374,Elisaf MS,boehringer ingelheim,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+32719038,Emeanuru K,boehringer ingelheim,,,,,,,,PubMed,NOT_OBSERVED,0,8,8,[],Not observed is not proof of absence
+29300101,Ortega M,janssen,,,,,,,,PubMed,NOT_OBSERVED,0,11,11,[],Not observed is not proof of absence
+26717493,Wyrwich K,evidera,,,,,,,,PubMed,NOT_OBSERVED,0,2,2,[],Not observed is not proof of absence
+31847610,Danese S,msd,,,,,,,,PubMed,NOT_OBSERVED,0,95,95,[],Not observed is not proof of absence
+30675873,Greenberg L,merck,,,,,,,,PubMed,NOT_OBSERVED,0,10,10,[],Not observed is not proof of absence
+32880824,Imaizumi Y,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,4,4,[],Not observed is not proof of absence
+31623493,Citraro R,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,28,28,[],Not observed is not proof of absence
+29676944,Colleoni M,merck,,,,,,,,PubMed,NOT_OBSERVED,0,26,26,[],Not observed is not proof of absence
+32482616,Vranckx P,medtronic,,,,,,,,PubMed,NOT_OBSERVED,0,56,56,[],Not observed is not proof of absence
+27871928,Giganti F,glaxosmithkline,,,,,,,,PubMed,NOT_OBSERVED,0,3,3,[],Not observed is not proof of absence
+31392960,Lyle MA,merck,,,,,,,,PubMed,SEARCH_TRUNCATED,0,20895,180,[],Not observed is not proof of absence
+32660977,de la Torre I,msd,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+27692272,Roth T,merck,,,,,,,,PubMed,NOT_OBSERVED,0,26,26,[],Not observed is not proof of absence
+31924322,Ten Berg JM,boehringer ingelheim,,,,,,,,PubMed,NOT_OBSERVED,0,0,0,[],Not observed is not proof of absence
+20200547,Karki S,boehringer ingelheim,,,,,,,,PubMed,NOT_OBSERVED,0,11,11,[],Not observed is not proof of absence
+32984892,Hijazi Z,merck,,,,,,,,PubMed,NOT_OBSERVED,0,6,6,[],Not observed is not proof of absence
+28271055,Bressler B,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,14,14,[],Not observed is not proof of absence
+30716716,Cuzzubbo S,gsk,,,,,,,,PubMed,NOT_OBSERVED,0,59,59,[],Not observed is not proof of absence
+31375422,Sjöström CD,eli lilly,,,,,,,,PubMed,NOT_OBSERVED,0,1,1,[],Not observed is not proof of absence
+32035891,Mullens W,janssen,,,,,,,,PubMed,NOT_OBSERVED,0,1,1,[],Not observed is not proof of absence
+31889526,Bressi E,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,46,46,[],Not observed is not proof of absence
+33237321,Bukvic N,johnson & johnson,,,,,,,,PubMed,NOT_OBSERVED,0,37,37,[],Not observed is not proof of absence
+31712995,Marshall L,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,36,36,[],Not observed is not proof of absence
+31958280,Ducourau E,pfizer,,,,,,,,PubMed,NOT_OBSERVED,0,16,16,[],Not observed is not proof of absence
+31481505,Porcu L,novartis,,,,,,,,PubMed,NOT_OBSERVED,0,16,16,[],Not observed is not proof of absence
+24112375,Conradsen Hiort L,merck,,,,,,,,PubMed,NOT_OBSERVED,0,1,1,[],Not observed is not proof of absence
+32969288,MacDougall K,sanofi,,,,,,,,PubMed,NOT_OBSERVED,0,97,97,[],Not observed is not proof of absence
