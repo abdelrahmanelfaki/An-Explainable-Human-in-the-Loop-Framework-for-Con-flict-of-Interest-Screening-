@@ -23,6 +23,7 @@ principal contribution is to transform candidate relationships extracted from te
 Third Program
 COI_PubMed_Crossref_Separate_Validator.py
 Location in manuscript: Section 6, Evaluation.
+Dataset: COI_author_organization_relationships_regex
 Audits candidate relationships separately against PubMed and Crossref, recording evidence, incomplete searches, and retrieval failures. This program was designed to evaluate the operational performance of the author–organization verification procedure.
 The program examines the ability of PubMed and Crossref to independently return supporting affiliation evidence for candidate pairs. It provides the computational basis for the source-specific evaluation described in Section 6.
 The program conducts two separate source-specific searches.
